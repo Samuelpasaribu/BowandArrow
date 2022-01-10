@@ -10,4 +10,4 @@ I don't own any of the music albums used in the game  (Sounds : Archery Black).
 
 We've made some changes to the original HTML5 Bow and Arrow Windows Game idea on the blog..<a href="https://www.samuelpasaribu.com/2022/01/game-html5-bow-and-arrow-windows.html">READ MORE</a>
 
-<p>Copyright © 2020 <a href="https://www.samuelpasaribu.com">samuelpasaribu.com</a>. All rights reserved. Powered by Blogger</p>
+<p>Copyright © 2022 <a href="https://www.samuelpasaribu.com">samuelpasaribu.com</a>. All rights reserved. Powered by Blogger</p>
